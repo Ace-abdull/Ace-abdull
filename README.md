@@ -5,14 +5,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=0E75B6&center=true&vCenter=true&width=600&repeat=false&lines=Fullstack+MERN+Developer;Building+Scalable+Web+Applications" />
 </p>
 
+<p align="center">
+  <i>"With God, there is always a way."</i>
+</p>
+
 <h3 align="center">A passionate Fullstack Developer from Kenya</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ace-abdull&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<!-- TROPHY (FIXED VERSION) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ace-abdull&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ace-abdull&theme=flat&no-frame=true&margin-w=15&margin-h=15&column=6" />
 </p>
 
 ---
@@ -38,16 +43,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullahisudeis/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:abdullahisudeismohamud@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
 </p>
 
 <p align="center">
-  <b>🔗 Connect on LinkedIn</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>📧 Send me an Email</b>
+  <b>🔗 Click to connect on LinkedIn</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>📧 Click to send me an email</b>
 </p>
 
 ---
@@ -74,10 +79,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ace-abdull&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ace-abdull&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace-abdull&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
